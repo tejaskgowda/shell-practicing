@@ -1,3 +1,3 @@
 #!/bin/bash
-TIMESTAMP = $(DATE)
+TIMESTAMP=$(DATE)
 echo "the shell script is excuted at $TIMESTAMP"
